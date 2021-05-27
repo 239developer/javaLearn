@@ -1,0 +1,20 @@
+com/example/producingwebservice/ProducingWebServiceApplication.java
+ com.example.producingwebservice.ProducingWebServiceApplication
+io/spring/guides/gs_producing_web_service/GetCountryResponse.java
+ io.spring.guides.gs_producing_web_service.GetCountryResponse
+com/example/producingwebservice/WebServiceConfig.java
+ com.example.producingwebservice.WebServiceConfig
+io/spring/guides/gs_producing_web_service/package-info.java
+ io.spring.guides.gs_producing_web_service.package-info
+com/example/producingwebservice/CountryRepository.java
+ com.example.producingwebservice.CountryRepository
+com/example/producingwebservice/CountryEndpoint.java
+ com.example.producingwebservice.CountryEndpoint
+io/spring/guides/gs_producing_web_service/ObjectFactory.java
+ io.spring.guides.gs_producing_web_service.ObjectFactory
+io/spring/guides/gs_producing_web_service/GetCountryRequest.java
+ io.spring.guides.gs_producing_web_service.GetCountryRequest
+io/spring/guides/gs_producing_web_service/Country.java
+ io.spring.guides.gs_producing_web_service.Country
+io/spring/guides/gs_producing_web_service/Currency.java
+ io.spring.guides.gs_producing_web_service.Currency

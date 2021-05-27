@@ -1,0 +1,2 @@
+com/example/producingwebservice/ProducingWebServiceApplicationIntegrationTests.java
+ com.example.producingwebservice.ProducingWebServiceApplicationIntegrationTests
